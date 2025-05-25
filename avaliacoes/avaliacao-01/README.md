@@ -1,1 +1,16 @@
-# Avalia嚻o 01 
+# Atividade Inicial - Organiza莽茫o de Reposit贸rio no GitHub
+
+## Objetivo
+Executar os primeiros passos de organiza莽茫o de um reposit贸rio no GitHub para a disciplina de Banco de Dados, seguindo as diretrizes fornecidas.
+
+## Etapas
+
+### 1. Criar uma conta no GitHub
+Se ainda n茫o possuir uma conta no GitHub, acesse (https://github.com) e realize o cadastro.
+
+### 2. Criar um reposit贸rio
+Crie um reposit贸rio p煤blico chamado `bd-251`.
+
+### 3. Estrutura de pastas
+Organize o reposit贸rio com a seguinte estrutura de diret贸rios, conforme as **Regras da disciplina**:
+
