@@ -12,7 +12,6 @@ Defina chaves primárias (id) e chaves estrangeiras(tabelaId) seus relacionament
 
 ### 3. Escreva o comando SQL cria esse banco de dados.
 
-### 4. Exemplifique o uso de comando SQL que executam operações CRUD(Insert, Select, Update e Delete)
-envolvendo todas as tabelas.
+### 4. Exemplifique o uso de comando SQL que executam operações CRUD(Insert, Select, Update e Delete) envolvendo todas as tabelas.
 
-## Evidenciar a realização da Avaliação com o post de um PDF contendo o que foi pedido junto as saídas dos comandos SQL.
+### Evidenciar a realização da Avaliação com o post de um PDF contendo o que foi pedido junto as saídas dos comandos SQL.
