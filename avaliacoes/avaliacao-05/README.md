@@ -1,4 +1,4 @@
-# Avalia��o 05
+# Avaliação 05
 
 # INSTRUÇÕES
 Executar o Tutorial do Docker Compose disponível em RECURSOS disponível em vídeo como DOCKER COMPOSE NA PRATICA.
